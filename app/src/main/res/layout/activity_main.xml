@@ -8,10 +8,6 @@
     android:orientation="vertical"
     android:gravity="center">
 
-    <!--
-        TODO 가독성 좋게 만들기, 검색 내용이 많아도 검색 창 고정
-    -->
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
