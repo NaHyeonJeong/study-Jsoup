@@ -23,6 +23,7 @@ import java.io.IOException;
  */
 public class MainActivity extends AppCompatActivity {
 
+    // TODO 링크를 찍고 이동할 수 있도록 하기
 
     private String url = "https://sonyunara.com/shop/search.php?searchOrder=&keyword="; // 검색 키워드는 빈칸으로 보냄
     private String htmlContentInStringFormat;

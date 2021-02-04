@@ -8,6 +8,7 @@
     android:orientation="vertical"
     android:gravity="center">
 
+    <!-- TODO 가독성 좋게 수정 필요 -->
 
     <LinearLayout
         android:layout_width="match_parent"
